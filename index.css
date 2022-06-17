@@ -1,0 +1,12 @@
+main {
+    width: 100vw;
+    height: 50vw;
+    align-items: center;
+    padding-right: 50%;
+}
+
+.container {
+    background-color: orangered;
+    width: 50%;
+    height: 50%;
+}
